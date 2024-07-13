@@ -1,39 +1,8 @@
-<div align="left">
-            <a href="https://paypal.me/piyushsati311999" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="left"
-                />
-            </a>
-            <a href="https://www.buymeacoffee.com/piyushsati" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="left"
-                />
-            </a>
-</div>  
-<br/> 
-
-
-# Whatsapp Web Clone
+# Real Time Chat App
 
 Whatsapp web clone with Whatsapp web like UI and functionalities built using React.js and Firebase
 
 <img src="https://www.logo.wine/a/logo/WhatsApp/WhatsApp-Logo.wine.svg" height="100"  alt="" />
-
-
-## Demo
-
-[LIVE](https://wwc-ps.vercel.app)
-
-
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/X4SSHxQ/whatsapp-web-clone.gif)
-
-## Acknowledgements
-
- - [sonny sangha](https://github.com/sonnysangha)
   
 ## Features
 
@@ -50,13 +19,13 @@ Whatsapp web clone with Whatsapp web like UI and functionalities built using Rea
 Clone the project
 
 ```bash
-  git clone https://github.com/Pinqua/whatsapp-web-clone.git
+  [git clone https://github.com/Pinqua/whatsapp-web-clone.git](https://github.com/Ankit19Bharati/real-time-chat-app)
 ```
 
 Go to the project directory
 
 ```bash
-  cd whatsapp-web-clone
+  cd real-time-chat-app
 ```
 
 Install dependencies
