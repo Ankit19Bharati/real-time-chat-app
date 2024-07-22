@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/real-time-chat-app/static/css/main.7c16f562.css",
+    "main.js": "/real-time-chat-app/static/js/main.ea92a851.js",
+    "static/media/whatsapp-original-bg.png": "/real-time-chat-app/static/media/whatsapp-original-bg.5c61d81ab94f50d54634.png",
+    "static/media/whatsapp-bg.jpg": "/real-time-chat-app/static/media/whatsapp-bg.9bd52f97e90bf5fe54c7.jpg",
+    "index.html": "/real-time-chat-app/index.html",
+    "main.7c16f562.css.map": "/real-time-chat-app/static/css/main.7c16f562.css.map",
+    "main.ea92a851.js.map": "/real-time-chat-app/static/js/main.ea92a851.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c16f562.css",
+    "static/js/main.ea92a851.js"
+  ]
+}
