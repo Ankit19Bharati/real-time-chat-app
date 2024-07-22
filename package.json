@@ -1,6 +1,7 @@
 {
   "name": "whatsapp-web-clone",
   "version": "0.1.0",
+  "homepage": "https://ankit19bharati.github.io/real-time-chat-app",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.0",
@@ -9,6 +10,7 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "firebase": "^7.24.0",
+    "gh-pages": "^6.1.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-loader-spinner": "^3.1.14",
@@ -17,6 +19,8 @@
     "webpack": "^5.92.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
