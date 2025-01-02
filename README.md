@@ -1,6 +1,7 @@
 # Real Time Chat App
 
-Whatsapp web clone with Whatsapp web like UI and functionalities built using React.js and Firebase
+ • A Real-time Chat application using React.js and Firebase.
+ • Implemented state management using Context API for efficient data flow.
   
 ## Features
 
