@@ -1,6 +1,8 @@
 # Real Time Chat App
 
  • A Real-time Chat application using React.js and Firebase.
+ • Implemented state management using Context API for efficient data flow.
+ • Integrated user authentication and Google sign-in for secure access.
   
 ## Features
 
